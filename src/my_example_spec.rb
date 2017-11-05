@@ -9,5 +9,6 @@ describe 'My behaviour' do
   it 'should do something2' do
 
     puts "testrrr test"
+    puts "test"
   end
 end
