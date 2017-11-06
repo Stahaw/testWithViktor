@@ -9,7 +9,7 @@ describe 'My behaviour' do
   it 'should do something2' do
 
     puts "testrrr test"
-    puts "test"
+    puts "test10000000"
     puts "test 22 222 222"
 
   end
