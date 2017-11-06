@@ -10,5 +10,7 @@ describe 'My behaviour' do
 
     puts "testrrr test"
     puts "test"
+    puts "test 22 222 222"
+
   end
 end
